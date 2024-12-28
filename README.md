@@ -12,7 +12,7 @@ My complete workflow is documented in a single Jupyter Notebook; check it out [h
 The genome dataset showcased here is used in my description of a marine bacteria (**TLL-SE01**) from a novel genus, [***Parasalinivibrio***](https://lpsn.dsmz.de/genus/parasalinivibrio), which I isolated from the intestinal contents of a farmed Asian Seabass (*Lates calcarifer*). I used this dataset in my downstream phylogenetic and taxonogenomic analysis of **TLL-SE01** together with all valid species from the family *Vibrionaceae*. 
 
 Read more about ***Parasalinivibrio latis* TLL-SE01** here[^1]:
-> [**Er S., Soh M., Low A., Seedorf H.** Parasalinivibrio latis gen. nov., sp. nov., isolated from the distal gut of healthy farmed Asian Seabass (Lates calcarifer). *Antonie van Leeuwenhoek* 118, 25 (2025).](https://doi.org/10.1007/s10482-024-02036-x)
+> [**Er S., Soh M., Low A., Seedorf H.** Parasalinivibrio latis gen. nov., sp. nov., isolated from the distal gut of healthy farmed Asian Seabass (*Lates calcarifer*). *Antonie van Leeuwenhoek* 118, 25 (2025).](https://doi.org/10.1007/s10482-024-02036-x)
 
 P.S. you can easily tweak the code and some of the methods used to suit your needs (eg. different genome quality filter, different taxonomic family)!
 

@@ -2,10 +2,10 @@
 
 In this project, I harness the use of the Python language to programatically download whole genome assemblies from NCBI genome database.
 I demonstrate in detail my methodology in:
-#### 1. Shortlisting a list of genome accessions from the taxonomic family of interest
-#### 2. Filtering this list against a specified set of conditions
-#### 3. Validating this list to retain only validly published organisms
-#### 4. Automating the download of whole genome assemblies
+1. **Shortlisting a list of genome accessions from the taxonomic family of interest**
+2. **Filtering this list against a specified set of conditions**
+3. **Validating this list to retain only validly published organisms**
+4. **Automating the download of whole genome assemblies**
 
 My complete workflow is documented in a single Jupyter Notebook; check it out [here](ncbi_datasets.ipynb)!
 
